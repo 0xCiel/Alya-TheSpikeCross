@@ -14,6 +14,8 @@
 
 ---
 
+Only for steam version
+
 ## Open Menu
 **Insert**
 
